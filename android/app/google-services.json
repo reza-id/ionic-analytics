@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "844232562208",
+    "firebase_url": "https://cianjur-dev.firebaseio.com",
+    "project_id": "cianjur-dev",
+    "storage_bucket": "cianjur-dev.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:844232562208:android:042a008328f29428fc0e45",
+        "android_client_info": {
+          "package_name": "com.cianjur.dev"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "844232562208-4q8mm6v80a90rmm6d1eh0dko6dir2cnm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB1k5NEafW0pNUUn-MKfYVdwIU2WfPh2pM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "844232562208-4q8mm6v80a90rmm6d1eh0dko6dir2cnm.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
